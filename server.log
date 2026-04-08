@@ -1,0 +1,47 @@
+FAILED To connect to mysql server
+ERROR 404 Page not found
+  Line1:stacktrace ERROR explanation
+  Line2:stacktrace ERROR explanation
+  Line3:stacktrace ERROR explanation
+  Line4:stacktrace ERROR explanation
+  Line5:stacktrace ERROR explanation
+INFO Login succeeded
+ERROR 400 Exceeds rate limiting
+  Line1:stacktrace ERROR explanation
+  Line2:stacktrace ERROR explanation
+ERROR 403 Access denied for this account
+  Line1:stacktrace ERROR explanation
+CRITICAL Application not loading at peak times
+  Line1:stacktrace CRITICAL explanation
+INFO Access token generated successfully
+INFO Login succeeded
+ERROR 404 Page not found
+  Line1:stacktrace ERROR explanation
+ERROR 404 Page not found
+  Line1:stacktrace ERROR explanation
+  Line2:stacktrace ERROR explanation
+ERROR 403 Access denied for this account
+  Line1:stacktrace ERROR explanation
+  Line2:stacktrace ERROR explanation
+  Line3:stacktrace ERROR explanation
+  Line4:stacktrace ERROR explanation
+  Line5:stacktrace ERROR explanation
+CRITICAL Moltbot,Clawdbot are getting the sensitive information of users
+  Line1:stacktrace CRITICAL explanation
+  Line2:stacktrace CRITICAL explanation
+  Line3:stacktrace CRITICAL explanation
+  Line4:stacktrace CRITICAL explanation
+INFO Login succeeded
+INFO User added successfully
+CRITICAL Application not loading at peak times
+  Line1:stacktrace CRITICAL explanation
+  Line2:stacktrace CRITICAL explanation
+ERROR 403 Access denied for this account
+  Line1:stacktrace ERROR explanation
+  Line2:stacktrace ERROR explanation
+CRITICAL Application not loading at peak times
+  Line1:stacktrace CRITICAL explanation
+  Line2:stacktrace CRITICAL explanation
+FAILED To connect to mysql server
+INFO Login succeeded
+INFO Login succeeded
