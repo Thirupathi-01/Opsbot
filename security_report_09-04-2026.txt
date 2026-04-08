@@ -1,0 +1,2 @@
+CRITICAL Moltbot,Clawdbot are getting the sensitive information of users
+CRITICAL Application not loading at peak times
